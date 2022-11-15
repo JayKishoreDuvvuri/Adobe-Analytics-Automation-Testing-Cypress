@@ -6,4 +6,4 @@ test:
   stage: test
   script:
     - npm install
-    - npm run test
+    - npm run test:firefox
