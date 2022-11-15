@@ -37,8 +37,14 @@ Run the following command on Terminal to execute test
 npm run test:firefox - Run the test in firefox headless mode
 ```
 
-### GitLab Pipeline
+### GitLab Headless run on Firefox
 
 ```sh
 Headless run on Firefox  - https://gitlab.com/jaykishore96/adobe-analytics-automation-testing-cypress/-/jobs/3326895861
+```
+
+### GitLab Pipelines
+
+```sh
+Headless runs - https://gitlab.com/jaykishore96/adobe-analytics-automation-testing-cypress/-/pipelines
 ```
