@@ -30,7 +30,7 @@ npm run cy:open (OR) npx cypress open
 ```
 
 ### Execute Test
-
+  
 Run the following command on Terminal to execute test
 
 ```sh
