@@ -1,12 +1,12 @@
-# Cypress-FI-HH-Adobe-Analytics:
+# Adobe-Analytics-Tracking:
 
 An example test project for FI-HH adobe analytics traking
 
 ## Application Under Test
 
-We are using https://netbank.nd.test.nordea.fi/login/ as the Application Under Test.
+We are using https://www.xfinity.com/overview as the Application Under Test.
 
-- URL : https://netbank.nd.test.nordea.fi/login/
+- URL : https://www.xfinity.com/overview
 - OS : macOS
 - IDE : Visual Studio Code
 
@@ -34,6 +34,6 @@ npm run cy:open  (OR) npx cypress open
 Run the following command on Terminal to execute test
 
 ```sh
-npm run test:chrome - Run the test in chrome headless mode
+npm run test - Run the test in electron headless mode
 npm run test:firefox - Run the test in firefox headless mode
 ```
