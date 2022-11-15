@@ -26,7 +26,7 @@ npm install
 Run the following command on Terminal to open Cypress Test Runner:
 
 ```sh
-npm run cy:open  (OR) npx cypress open
+npm run cy:open (OR) npx cypress open
 ```
 
 ### Execute Test
@@ -34,7 +34,6 @@ npm run cy:open  (OR) npx cypress open
 Run the following command on Terminal to execute test
 
 ```sh
-npm run test - Run the test in electron headless mode
 npm run test:firefox - Run the test in firefox headless mode
 ```
 
