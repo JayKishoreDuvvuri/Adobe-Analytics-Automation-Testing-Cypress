@@ -12,7 +12,7 @@ We are using https://www.xfinity.com/overview as the Application Under Test.
 
 ### Installation
 
-Install the dependencies and devDependencies to run the test.
+Install the dependencies and dev Dependencies to run the test.
 
 - Clone (OR) Download this repo as zip folder on to your local machine
 - Navigate to project's directory on terminal and run the following commands:
