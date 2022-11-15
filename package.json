@@ -1,0 +1,22 @@
+{
+  "name": "adobe_analytics_tracking_test",
+  "version": "0.0.1",
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run",
+    "test:firefox": "cypress run --browser firefox",
+    "test": "cypress run --browser electron"
+  },
+  "private": true,
+  "devDependencies": {
+    "cypress-log-to-output": "^1.1.2",
+    "cypress-plugin-tab": "1.0.5",
+    "cypress-xpath": "^1.8.0"
+  },
+  "dependencies": {
+    "cypress": "^10.11.0",
+    "cypress-failed-log": "^2.10.0",
+    "cypress-terminal-report": "^4.1.2",
+    "query-string": "^7.1.1"
+  }
+}

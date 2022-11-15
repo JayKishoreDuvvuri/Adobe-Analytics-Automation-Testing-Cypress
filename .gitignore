@@ -1,0 +1,17 @@
+node_modules
+.scannerwork
+package-lock.json
+
+cypress/videos
+cypress/screenshots
+cypress/downloads
+
+.idea/
+
+**/*.mp4
+**/*.png
+**/*.bat
+
+allure-results
+.vscode
+.DS-Store
