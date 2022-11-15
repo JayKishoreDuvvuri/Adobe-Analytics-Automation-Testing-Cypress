@@ -1,6 +1,6 @@
 # Adobe-Analytics-Tracking:
 
-An example test project for FI-HH adobe analytics traking
+An example test project for adobe analytics tracking
 
 ## Application Under Test
 
