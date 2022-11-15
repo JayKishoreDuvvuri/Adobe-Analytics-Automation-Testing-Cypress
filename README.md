@@ -41,6 +41,5 @@ npm run test:firefox - Run the test in firefox headless mode
 ### GitLab Pipeline
 
 ```sh
-Headless run on Electron - https://gitlab.com/jaykishore96/adobe-analytics-automation-testing-cypress/-/jobs/3326933281
 Headless run on Firefox  - https://gitlab.com/jaykishore96/adobe-analytics-automation-testing-cypress/-/jobs/3326895861
 ```
