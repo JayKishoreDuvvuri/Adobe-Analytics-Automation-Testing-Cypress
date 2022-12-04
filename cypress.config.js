@@ -10,7 +10,7 @@ module.exports = defineConfig({
     openMode: 1,
   },
   env: {
-    landingPageUrl: "https://www.xfinity.com/overview",
+    landingPageUrl: "https://www.xfinity.com/national",
     mobileOverviewPageUrl: "https://www.xfinity.com/learn/mobile-service",
   },
   viewportWidth: 1280,
