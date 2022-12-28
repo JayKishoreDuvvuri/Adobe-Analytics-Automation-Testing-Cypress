@@ -9,7 +9,7 @@ We are using https://www.xfinity.com/overview as the Application Under Test.
 - URL : https://www.xfinity.com/overview
 - OS : macOS
 - IDE : Visual Studio Code
-
+ 
 ### Installation
 
 Install the dependencies and dev Dependencies to run the test.
