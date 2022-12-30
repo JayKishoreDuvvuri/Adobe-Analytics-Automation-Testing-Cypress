@@ -48,3 +48,4 @@ Headless run on Firefox  - https://gitlab.com/jaykishore96/adobe-analytics-autom
 ```sh
 Headless runs - https://gitlab.com/jaykishore96/adobe-analytics-automation-testing-cypress/-/pipelines
 ```
+ 
